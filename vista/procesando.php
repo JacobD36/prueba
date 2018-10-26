@@ -1,0 +1,1 @@
+<div><h3>Procesando...&nbsp; <img src="./vista/img/loading.gif" width="50px"/></h3></div>
